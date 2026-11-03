@@ -2,7 +2,12 @@
 
 Multi-tenant SaaS for small businesses that manage hourly staff: employees, shifts, advances and payroll — in Hebrew, Arabic and English.
 
-> Screenshots: add images to a `docs/` folder and link them here.
+## Screenshots
+
+| Desktop | Mobile |
+|---|---|
+| **Login**<br><img src="docs/screenshots/login-desktop.png" width="560"> | <img src="docs/screenshots/login-mobile.png" width="200"> |
+| **Register**<br><img src="docs/screenshots/register-desktop.png" width="560"> | <img src="docs/screenshots/register-mobile.png" width="200"> |
 
 ## Features
 - **Supabase Auth** – register, login, sessions, onboarding wizard that creates a business.
